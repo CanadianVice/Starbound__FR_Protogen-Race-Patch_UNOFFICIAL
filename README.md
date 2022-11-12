@@ -6,8 +6,9 @@ Some people have opted to continue using the older *Frackin' Races* mod from bef
 
 If you have no reason not to, *Frackin' Universe* has all the same content and far more. Plus, it will actually be updated. FR is deprecated and will receive no further fixes.
 
-# Where's the download?
-You can use the normal folder structure here, and stick it in /Starbound/mods/<folder> or you can make use of this [**.PAK**](). I've read it can be faster. No idea, but them's the options.
+# Where's the download/How to install?
+You can use the normal folder structure here, and stick it in /Starbound/mods/<folder> or you can make use of this [**.PAK**](https://github.com/CanadianVice/Starbound__FR_Protogen-Race-Patch_UNOFFICIAL/blob/main/fr_protogenrace1_patch.pak).  
+I've read it can be faster. No idea, but them's the options.
 
 # Caveats
 I'm not a professional modder, this is literally just putting together some text files. So it could be buggy or have things not work (the documentation isn't amazing for how Sayter's implemented some of this). 
