@@ -1,11 +1,11 @@
 {
-  "version" : "1.00",
-  "tags" : "Species",
   "author" : "Canadianvice",
   "description" : "For [b]Frackin' Races[/b] standalone ONLY. Also requires Protogen Race Mod. If you use Frackin [b]Universe[/b] you should NOT install this!\n\nFor further details about the patch/spirit of this patch mod, please see the mainline FU version's workshop page [b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136]here[/url][/b].\n\nWhat is this?\nSayter's Frackin' Universe was not always a monolithic project - it had a few semi-to-standalone components that could be used and installed separately. Some players prefer using the older Frackin' Races mod. If you are such a user, this is for you - unlike the non-FR version you may see in the Steam workshop, this one uses the older stats syntax for compatiibility. I used the FR templates originally by accident, so no reason for that fluke to go to waste.\n\nWarnings:\nFrackin' Races is NOT compatible with the mainline patch. FU changed a lot of syntax and added a lot of tweakable stats when it integrated FR into the main mod - and this breaks backward compatiblity.\n\nIt should be forwards-compatible with FU in a limited manner. However, this version is intended exclusively for use with the older Frackin' Races mod - which has since been deprecated in favour of integration with FU proper.\n\nIf you attempt to use this in tandem with my FU patch, you will encounter problems.\n\nIf you have no compelling reason to use FR, you should switch to Frackin' Universe - it integrates what functionality FR had, is getting updated - and will also be compatible with the latest versions of this patch.\n\nOffered as-is, this version is mostly for those who must or preferentially use FR to have [i]something[/i] to give stats to the Protogen mod. No further updates will be forthcoming.",
-  "name" : "FU-Races Patch: Protogen",
   "friendlyName" : "Protogen Race Patch for Frackin' -Races- [UNOFFICIAL]",
-  "steamContentId" : "2885865644",
+  "includes" : ["FrackinRaces", "Protogen Mod"],
   "link" : "steam://url/CommunityFilePage/2885865644",
-  "includes" : ["FrackinRaces", "Protogen Mod"]
+  "name" : "FU-Races Patch: Protogen",
+  "steamContentId" : "2885865644",
+  "tags" : "Species",
+  "version" : "1.0.1"
 }
